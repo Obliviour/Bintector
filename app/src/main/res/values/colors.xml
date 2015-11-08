@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "primaryColor">#4CAF50</color>
+    <color name = "toolbarColor">#4CAF50</color>
+    <color name="primaryColorDark">#388E3C</color>
+    <color name="accentColor">#FC8A80</color>
+    <color name="white">#EEE</color>
+    <color name="primary">#FC8A80</color>
+    <color name="primary_pressed">#C2185B</color>
+    <color name="ripple">#FF80AB</color>
+
+
+</resources>
